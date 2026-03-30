@@ -1,0 +1,10 @@
+{
+  "8F3A2B1C4D5E": {
+    "status": "active",
+    "expiry": "2024-12-31"
+  },
+  "A1B2C3D4E5F6": {
+    "status": "blocked",
+    "expiry": "2024-05-01"
+  }
+}
